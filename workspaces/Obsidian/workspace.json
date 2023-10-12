@@ -1,0 +1,17 @@
+{
+  "description": "Obsidian is a useful note-taking program.",
+  "name": "sqeed/private:obsidian",
+  "image_src": "obsidian.png",
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "Obsidian",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ],
+  "compatibility": [
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 3000
+}
