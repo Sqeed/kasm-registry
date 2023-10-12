@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Sqeed Repo',
     description: 'Sqeed',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://sqeed.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
